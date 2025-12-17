@@ -9,7 +9,7 @@
 
 **A modern, production-ready React dashboard application with Firebase integration and comprehensive testing suite**
 
-[🚀 Live Demo](#https://react-dashboard-demo-5028f.web.app/) | [📖 Documentation](#features) | [🛠️ Tech Stack](#tech-stack)
+[🚀 Live Demo](https://react-dashboard-demo-5028f.web.app/) | [📖 Documentation](#features) | [🛠️ Tech Stack](#tech-stack)
 
 </div>
 
