@@ -1,4 +1,4 @@
-# Project Name
+# React Dashboard Demo
 
 ## Overview
 Short explanation of what the app does and why it exists.
