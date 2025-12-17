@@ -204,6 +204,10 @@ Security is a priority. See [SECURITY.md](SECURITY.md) for information on:
 
 ## 👨‍💻 Developer Information
 
+**Author**: Andrew Coleman
+
+FrontEnd Developer | React
+
 **Repository**:  [Andrew112/REACT-DASHBOARD-DEMO](https://github.com/Andrew112/REACT-DASHBOARD-DEMO)
 
 **Created**: December 2025
